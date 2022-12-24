@@ -1,38 +1,5 @@
 {
   "projects": [
-    {
-      "name": "adasdasd",
-      "budget": "12312312",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "uai so",
-      "budget": "5600",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "budget": "131231",
-      "name": "asdasda",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    }
   ],
   "categories": [
     {
