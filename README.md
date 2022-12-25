@@ -1,6 +1,6 @@
 # Projeto Costs
 
-Costs é uma plataforma fictícia para o gerenciamento de projetos.
+Costs é uma plataforma fictícia para gerenciamento de projetos.
 
 Projeto do curso de ReactJS do [Matheus Battisti](https://github.com/matheusbattisti)
 
