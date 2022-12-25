@@ -1,5 +1,16 @@
 {
   "projects": [
+    {
+      "name": "comprar teclado",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
   ],
   "categories": [
     {
